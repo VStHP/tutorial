@@ -1,2 +1,3 @@
 ﻿ngay cả con khỉ cũng hiểu được lệnh git
 Add: Đăng ký thay đổi trong index
+Commit: Lưu lại trại thái của index
