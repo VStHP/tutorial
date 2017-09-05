@@ -1,1 +1,2 @@
-ngay cả con khỉ cũng hiểu được lệnh git
+﻿ngay cả con khỉ cũng hiểu được lệnh git
+Add: Đăng ký thay đổi trong index
