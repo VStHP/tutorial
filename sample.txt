@@ -1,3 +1,1 @@
-﻿ngay cả con khỉ cũng hiểu được lệnh git
-Add: Đăng ký thay đổi trong index
-pull: lấy nội dung của remote repository
+day la dong thay doi
